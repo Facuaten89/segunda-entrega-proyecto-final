@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+    color:black;
+    transition: 1s ease;
+}
+
+.darkMode{
+    background-color: black;
+    color:white;
+
+}
+
+#divProductos {
+
+    background-image: url(./img1/aral\ 8.jpg);
+}
